@@ -1,0 +1,40 @@
+
+body {
+  margin-top: 40px;
+  background-color: rgba(165, 159, 167, 0.85)
+}
+
+.header {
+  font-family: "Luckiest Guy", Times, serif;
+  color: rgb(50, 46, 50);
+}
+
+.text {
+  color: #000000;
+  border-collapse: collapse;
+}
+
+.wrap {
+  word-wrap: break-word;
+  max-width: 65%;
+}
+
+p {
+  font-weight: bold;
+}
+
+#kojima {
+ font-size: 12px;
+ font-style: italic;
+}
+
+.table {
+  font-size: 13px;
+  font-family: monospace;
+}
+
+.img {
+    height: 70%;
+    width: 100%;
+
+}
