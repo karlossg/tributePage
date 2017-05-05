@@ -14,11 +14,6 @@ body {
   border-collapse: collapse;
 }
 
-.wrap {
-  word-wrap: break-word;
-  max-width: 100%;
-}
-
 p {
   font-weight: bold;
   font-family: monospace;
